@@ -1,5 +1,5 @@
-# Placeholder for requirements.txt
-tensorflow
-numpy
+tensorflow==2.12.0
 opencv-python
+streamlit
+numpy
 playsound
