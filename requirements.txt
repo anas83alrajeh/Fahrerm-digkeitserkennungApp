@@ -1,0 +1,5 @@
+# Placeholder for requirements.txt
+tensorflow
+numpy
+opencv-python
+playsound
